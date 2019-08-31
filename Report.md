@@ -12,7 +12,7 @@ The campaigns’ outcomes are analyzed based on the goals, parent categories, su
 ## ANALYSIS
 We see that project campaigns with a goal of less than 1,000 (in currency) are more likely to be successful with a 71% success rate while the project campaigns with the goal of more than 50000 (in currency) more likely to be failed with a %59 failure rate (Figure 1).  
 
-<img src="fig01.jpg" alt="Figure 1">
+<img src="Analyzing_Campaigns_at_Kickstarter/fig01.jpg" alt="Figure 1">
 
 Figure 1
 
