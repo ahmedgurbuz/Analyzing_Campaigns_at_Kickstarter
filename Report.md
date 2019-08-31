@@ -18,7 +18,7 @@ Figure 1
 
 The project campaigns launched in the month of May is more likely to be successful with a % 61 success rate). The project campaigns launched in the month of December is more likely to be failed with a %47 failure rate (Figure 2).
  
- <img src="fig02.jpg" alt="Figure 2">
+ ![alt text](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig02.JPG)
 
 Figure 2
 
