@@ -12,30 +12,31 @@ The campaigns’ outcomes are analyzed based on the goals, parent categories, su
 ## ANALYSIS
 We see that project campaigns with a goal of less than 1,000 (in currency) are more likely to be successful with a 71% success rate while the project campaigns with the goal of more than 50000 (in currency) more likely to be failed with a %59 failure rate (Figure 1).  
 
-<img src="Analyzing_Campaigns_at_Kickstarter/fig01.jpg" alt="Figure 1">
+![Figure 1](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig01.JPG)
 
 Figure 1
 
 The project campaigns launched in the month of May is more likely to be successful with a % 61 success rate). The project campaigns launched in the month of December is more likely to be failed with a %47 failure rate (Figure 2).
  
- ![Figure 2](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig02.JPG)
+![Figure 2](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig02.JPG)
+
 Figure 2
 
 The project campaigns in the “music” parent category are more likely to be successful with a %77 success rate (Figure 3). 
  
- <img src="fig03.jpg" alt="Figure 3">
+ ![Figure 3](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig03.JPG)
 
 Figure 3
 
 The project campaigns in the “rock”, “documentary”, “hardware”, “tabletop games”, “television”, “shorts”, “nonfiction”, “electronic music”, “classical music”, “pop”, “metal”, “radio & podcasts” sub-categories are more likely to be successful (%100 success rate). Sub-category of “Rock” has the highest number of campaigns launched (260) (Figure 4). 
 
-<img src="fig04.jpg" alt="Figure 4">
+![Figure 4](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig04.JPG)
 
 Figure 4
 
 The project campaigns lasted for less than 20 days has a 71% success rate with 234 successful projects out of 328 (Figure 5). 
  
- <img src="fig05.jpg" alt="Figure 5">
+![Figure 5](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/fig05.JPG)
 
  Figure 5
 
