@@ -6,7 +6,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
 
-I will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends and find answers to the questions:
+I will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends and find answers to the following questions:
 - Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create?
