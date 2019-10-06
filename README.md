@@ -10,3 +10,5 @@ I will organize and analyze a database of 4,000 past projects in order to uncove
 - Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create?
+
+Please read my report [Link](https://github.com/ahmedgurbuz/Analyzing_Campaigns_at_Kickstarter/blob/master/README.md "here" target="_blank")
